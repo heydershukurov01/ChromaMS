@@ -1,0 +1,1 @@
+Follow the link to reset yourr password: {{ route('auth.password.reset' , $token ) }}
